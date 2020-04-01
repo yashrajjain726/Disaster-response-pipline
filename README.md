@@ -15,8 +15,7 @@
 6. [Screenshots](#screenshots)
 
 
-## See it on github :- 
-
+## Github project link : https://github.com/yashrajjain726/Data-scientist-nanodegree-project
 <a name="descripton"></a>
 ## Description
 
